@@ -1,18 +1,5 @@
 # Redux learning demo app
 
-<table>
-    <tr>
-        Screen shots
-    </tr>
-    <tr>
-        <td>
-            ![negative](screenshots/sc1.png)
-        </td>
-        <td>
-            ![zero](screenshots/sc2.png)
-        </td>
-        <td>
-            ![positive](screenshots/sc3.png) 
-        </td>
-    </tr>
-</table>
+| sub button click                 | inital state 0               | add button click                 |
+| -------------------------------- | ---------------------------- | -------------------------------- |
+| ![negative](screenshots/sc1.png) | ![zero](screenshots/sc2.png) | ![positive](screenshots/sc3.png) |
