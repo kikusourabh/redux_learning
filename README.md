@@ -1,5 +1,18 @@
 # Redux learning demo app
 
-| screen shots |
-
-| ![negative](screenshots/sc1.png) | ![zero](screenshots/sc2.png) | ![positive](screenshots/sc3.png) |
+<table>
+    <tr>
+        Screen shots
+    </tr>
+    <tr>
+        <td>
+            ![negative](screenshots/sc1.png)
+        </td>
+        <td>
+            ![zero](screenshots/sc2.png)
+        </td>
+        <td>
+            ![positive](screenshots/sc3.png) 
+        </td>
+    </tr>
+</table>
