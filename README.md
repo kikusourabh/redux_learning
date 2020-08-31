@@ -8,6 +8,8 @@
 
 ###### in the master branch I've implemented the persitance saving state of the counter value using redux-persist and asyncstorage.
 
+## 3. Screenshots of the apps
+
 | sub button click                 | inital state 0               | add button click                 |
 | -------------------------------- | ---------------------------- | -------------------------------- |
 | ![negative](screenshots/sc1.png) | ![zero](screenshots/sc2.png) | ![positive](screenshots/sc3.png) |
